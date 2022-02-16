@@ -1,4 +1,4 @@
-# Applied-Data-Science-Capstone
+# Applied Data Science Capstone
 Coursera IBM Data Science Final Project
 
 In this capstone, we will predict if the Falcon 9 first stage will land successfully SpaceX
